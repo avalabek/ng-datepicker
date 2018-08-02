@@ -1,5 +1,6 @@
 # ng2-datepicker
 
+Cloned from original repo
 Angular 2+ Simple and minimal datepicker component
 
 [![AbstruseCI](https://ci.bleenco.io/badge/6)](https://ci.bleenco.io/repo/6)
